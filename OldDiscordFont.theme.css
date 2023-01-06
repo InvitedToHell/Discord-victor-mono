@@ -18,14 +18,14 @@
     font-family: "Victor Mono";
     font-style: normal;
     font-weight: 300;
-    src: url("https://github.com/ryanoasis/nerd-fonts/blob/19237f121dd209656a1a16e3299f56f5e9801d84/src/unpatched-fonts/VictorMono/Light/VictorMono-Light.ttf") format("ttf");
+    src: url("https://github.com/ryanoasis/nerd-fonts/blob/19237f121dd209656a1a16e3299f56f5e9801d84/src/unpatched-fonts/VictorMono/Regular/VictorMono-Regular.ttf") format("ttf");
 }
 
 @font-face {
     font-family: "Victor Mono";
     font-style: italic;
     font-weight: 300;
-  src: url("https://github.com/ryanoasis/nerd-fonts/blob/19237f121dd209656a1a16e3299f56f5e9801d84/src/unpatched-fonts/VictorMono/Light-Italic/VictorMono-LightItalic.ttf") format("ttf");}
+  src: url("https://github.com/ryanoasis/nerd-fonts/blob/19237f121dd209656a1a16e3299f56f5e9801d84/src/unpatched-fonts/VictorMono/Italic/VictorMono-Italic.ttf") format("ttf");}
 
 @font-face {
     font-family: "Victor Mono";
